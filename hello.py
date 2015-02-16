@@ -1,4 +1,2 @@
-function greeting(msg):
-	print(msg)
-
+from helper.py import * 
 greeting("hello")
